@@ -1,183 +1,177 @@
-                                  華碩電腦(B)                         
-                                                                    FROM:114885
-                               單階材料用量明細表                      
-
-製表日期:07/09/24 13:24:28   有效日期:07/09/24  列印版本:               頁次:1
-================================================================================
-主件料號:70-MBB6U5-A02        目前版本:   來源:M 發料單位:PCS  生產單位:PCS 
-品名規格:P5K-E <GA>                              主件數量:1
+Main P/N:70-MBB6U5-A02        目前版本:   來源:M 發料單位:PCS  生產單位:PCS 
+Product Spec.:P5K-E <GA>                              主件數量:1
           R1.02G <GA>  (EN*47993)       
-客戶料號:                    品名規格:                                        
+CP/N:                    Product Spec.:                                        
  項                         來 發料  組成用量   生效日期 損耗率%      特  保 Dis
- 次  元件料號/品名規格      源 單位    底數     失效日期 插件位置/ECN 性  稅 app
+ 次  Comp.part#/Product Spec.      源 單位    底數     失效日期 插件位置/ECN 性  稅 app
 ---- ----------------------- -- ---- ----------- -------- ----------------------
   10 07G009002453            P  PCS       1.0000 07/09/18               2  N  N
      XTAL 24.576MHZ 49US 16PF/30PPM                      
      TXC/9B24500327                                       ZX1,                
      QVL:台灣晶技,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (07G009702452        )                1.0000 07/08/31               S    N
      XTAL 24.576MHZ 49US 16PF/30PPM                      
      FC/HC-49S 24.576000M16FAB20OHM 
      QVL:FC,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (07G009402451        )                1.0000 07/08/31               S    N
      XTAL 24.576MHZ 49US 16PF/30PPM                      
      HELE/XAT024576FG1H-OH          
      QVL:加高,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (07G009W02451        )                1.0000 07/08/31               S    N
      XTAL 24.576MHZ 49US 16PF/30PPM                      
      ECERA/GB2450018                
      QVL:亞陶,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
   20 07G009002502            P  PCS       2.0000 07/09/18               2  N  N
      XTAL 25 MHZ DIP 49US 20PF/30PP                      
      TXC/9B25000291           <G>                         L2X1,T1X1,          
      QVL:台灣晶技,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (07G009702501        )                2.0000 07/08/31               S    N
      XTAL 25 MHZ DIP 49US 20PF/30PP                      
      FC/HC-49S 25.000000M20FAB20OHM 
      QVL:FC,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (07G009402501        )                2.0000 07/08/31               S    N
      XTAL 25MHZ DIP 49US 20PF/30PPM                      
      HELE/XAT025000FK1H-OH          
      QVL:加高,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (07G009W02501        )                2.0000 07/08/31               S    N
      XTAL 25MHZ DIP 49US 20PF/30PPM                      
      ECERA/GB2500028                
      QVL:亞陶,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
   30 07G009051433            P  PCS       1.0000 07/09/18               2  N  N
      XTAL 14.318MHZ DIP HC-49/S                          
      TXC/9B14300842  20PF/20PPM <G>                       CX1,                
      QVL:台灣晶技,台灣晶技,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (07G009701430        )                1.0000 07/08/31               S    N
      XTAL 14.318M 20PF/20PPM HC-49S                      
      FUJICON/HC-49S 14.318000M20FDB 
      MARKING:
      QVL:FUJICOM,FUJICOM,FUJICOM,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (07G009451434        )                1.0000 07/08/31               S    N
      XTAL 14.31818MHZ AT-49                              
      HELE/XAT01431ADK1H-3O 20PF/20P 
      MARKING:H/14.31818/..
      QVL:加高,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (07G009W01430        )                1.0000 07/08/31               S    N
      XTAL 14.318MHZ DIP HC-49/S                          
      eCERA/GB1430004 20PF/20PPM <G> 
      MARKING:
      QVL:亞陶,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
   40 07G009703276            P  PCS       1.0000 07/09/18               2  N  N
      XTAL 32.768KHZ DIP 12.5PF/20PP                      
      FUJICON/FTS-38 32.768000K12FDZ                       SY1,                
      MARKING:32768
      QVL:FUJICOM,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (07G00900327L        )                1.0000 07/08/31               S    N
      XTAL 32.768KHZ DIP 3*8                              
      KDS/DT-38  12.5PF/20PPM    <G> 
      MARKING:
      QVL:KDS,
-     客戶料號:1231232720R         品名規格:X   DT-38                                   
+     CP/N:1231232720R         Product Spec.:X   DT-38                                   
   50 07G015010001            P  PCS       1.0000 07/09/18               2  N  N
      LED GREEN 5φ                                       
      LEDTECH/LT1821-81        <G>                         SB_PWR,             
      QVL:華興電子,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (07G015510001        )                1.0000 07/08/31               S    N
      LED GREEN 5φ DIP                                   
      PARALIGHT/L-513GD      <G>     
      MARKING:LED GREEN 5φ L-513GD
      QVL:光鼎,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (07G015Q10041        )                1.0000 07/08/31               S    N
      LED GREEN 5φ DIP                                   
      RPC/LL-503GD2E-008             
      QVL:旭發,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
   60 07G016402032            P  PCS       1.0000 07/09/18               2  N  N
      BATT-LI KTS BBBCR2032BA                             
      CR2032 3V/220mAh           <G                        BAT_1,              
      MARKING:CR2032/KTS
      QVL:仕野,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (07G016B02032        )                1.0000 07/08/31               S    N
      RTC BATT-LI NEWSUN                                  
      CR2032 3V/210mAh           <G> 
      MARKING:CR2032/NEWSUN
      QVL:鑫谷,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (07G016B12032        )                1.0000 07/08/31               S    N
      RTC BATT-LI CR2032 3V/210mAh                        
      MITSUBISHI                     
      QVL:三菱,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (07G016C02032        )                1.0000 07/08/31               S    N
      BATT-LI CR2032  3V/220mAh                           
      FDK                            
      QVL:FDK,
-     客戶料號:1750119011          品名規格:*BATTERY 3V/220mA CR2032   1750119011                              
+     CP/N:1750119011          Product Spec.:*BATTERY 3V/220mA CR2032   1750119011                              
     (07G016102032        )                1.0000 07/08/31               S    N
      BATT-LI CR2032 3V/225mAh                            
      PANASONIC <G>                  
      MARKING:
      QVL:松下,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
   70 09G020113000            P  PCS       2.0000 07/09/18               2  N  N
      INDUCTOR 1.1UH/25A 1.3φ DIP                        
      MINGSTAR/SI1109N-1R1M                                PL201,PL401,        
      QVL:登壹,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (09G020113001        )                2.0000 07/08/31               S    N
      INDUCTOR 1.1UH/25A 1.3Φ DIP                        
      TRIO/LD-11AM11001              
      QVL:三集瑞,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (09G020113002        )                2.0000 07/08/31               S    N
      INDUCTOR 1.1UH/25A 1.3Φ DIP                        
      EMC/QS11X95-1R1MU              
      QVL:恆忻,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
   80 09G020272000            P  PCS       3.0000 07/09/18               2  N  N
      INDUCTOR 0.27UH/25A 1.2*3                           
      TRIO/LD-27BM16001                                    PL100,PL200,PL400,  
      QVL:三集瑞,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (09G020272001        )                3.0000 07/08/31               S    N
      INDUCTOR 0.27UH/25A DIP 20%                         
      EMC/LUI8080-R27MU              
      QVL:恆忻,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
   90 09G020482000            P  PCS       8.0000 07/09/18               2  N  N
      INDUCTOR 0.48UH/23A 0.9Φ DIP                       
      TRIO/LD-48BM16001                                    PL101,PL102,PL103,  
                                                           PL104,PL105,PL106,  
                                                           PL107,PL108,        
      QVL:三集瑞,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (09G020482100        )                8.0000 07/08/31               S    N
      INDUCTOR 0.48UH/25A 0.9Φ DIP                       
      EMC/LUI8080-R48MU              
      QVL:恆忻,恆忻,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
  100 11G090210661            P  PCS       6.0000 07/09/18               2  N  N
      CAP PL 10UF/10V 4*6 DIP 20%                         
      APAQ/100AREA100M0406                                 ACE3,ACE4,ACE5,ACE6,
                                                           ACE7,ACE8,          
      QVL:鈺邦,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (11G090210660        )                6.0000 07/08/31               S    N
      CAP PL 10UF/10V 4*5 DIP-T 20%                       
      FUJITSU/FP-010RE100M-NUCG      
      QVL:FUJITSU,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
  110 11G090210718            P  PCS      18.0000 07/09/18               2  N  N
      CAP PL 100UF/16V 6.3*11 20%                         
      APAQ/160AREA101M0611                                 ACE1,ACE10,ACE11,   
@@ -189,45 +183,45 @@
                                                           PCE703,PCE804,      
                                                           T1PCE1,             
      QVL:鈺邦,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (11G090210719        )               18.0000 07/08/31               S    N
      CAP PL 100UF/16V 6.3*11DIP 20%                      
      MATSUKI/MP16RS100MC10          
      QVL:MATSUKI,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (11G090210716        )               18.0000 07/08/31               S    N
      CAP PL 100UF/16V 6.3*10  DIP-T                      
      FUJITSU/FP-016RE101M-NUCG      
      QVL:富士通,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (11G090210717        )               18.0000 07/08/31               S    N
      CAP PL 100UF/16V 6.3*10.5 20%                       
      CHEMICON/APSA160EC3101MFA5G    
      QVL:CHEMICON,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
  120 11G090227719            P  PCS       4.0000 07/09/18               2  N  N
      CAP PL 270UF/16V 8*12 DIP 20%                       
      APAQ/160AREC271M0812                                 PCE116,PCE117,XCE1, 
                                                           XCE2,               
      QVL:鈺邦,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (11G090227716        )                4.0000 07/08/31               S    N
      CAP PL 270UF/16V 8*11.5 DIP-T                       
      CHEMICON/PSC16VB270MCH11E10    
      QVL:CHEMICON,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (11G090227713        )                4.0000 07/08/31               S    N
      CAP PL 270U/16V 8*11.5 DIP                          
      FUJITSU/FP-016RE271M-NU   <G>  
      MARKING:
      QVL:富士通,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (11G090227710        )                4.0000 07/08/31               S    N
      CAP PL 270UF/16V 8*12 DIP                           
      SANYO/16SEPC270M          <G>  
      MARKING:
      QVL:三洋,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
  130 11G090256750            P  PCS      26.0000 07/09/18               2  N  N
      CAP PL 560UF/6.3V 8*8  DIP 20%                      
      FUJITSU/FP-6R3RE561M-L8CG                            KCE3,KCE4,PCE105,   
@@ -244,576 +238,576 @@
                                                           PCE404,PCE802,      
                                                           PCE806,             
      QVL:富士通,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (11G090256752        )               26.0000 07/08/31               S    N
      CAP PL 560UF/6.3V 8*8 DIP 20%                       
      CHEMICON/APSC6R3EC3561MH08H    
      QVL:CHEMICON,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (11G090256753        )               26.0000 07/08/31               S    N
      CAP PL 560UF/6.3V 8*9 DIP 20%                       
      MATSUKI/MP6RL560MD9            
      QVL:MATSUKI,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (11G090256751        )               26.0000 07/08/31               S    N
      CAP PL 560UF/6.3V 8*9  DIP 20%                      
      SANYO/6SEPC560MX+C7            
      QVL:三洋,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
  140 12G021002400            P  PCS       2.0000 07/09/18               2  N  N
      DDR2 DIMM 240P,G/F,S/T DIP                          
      TYCO/1470074-5 (YELLOW)                              DIMM_A1,DIMM_B1,    
      QVL:泰科,泰科,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (12G02573240R        )                2.0000 07/08/31               S    N
      DDR2 DIMM 240P,S/T,G/F YELLOW                       
      FOXCONN/AT24011-J3Y-4F         
      QVL:鴻海,鴻海,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (12G02573240V        )                2.0000 07/08/31               S    N
      DDR2 DIMM 240P G/F DIP YELLOW                       
      LOTES/AAA-DDR-003-K20          
      QVL:嘉澤,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (12G025722409        )                2.0000 07/08/31               S    N
      DDR2 DIMM 240P YELLOW G/F DIP                       
      STARLINK/108036-310            
      QVL:華琦,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (12G02572240R        )                2.0000 07/08/31               S    N
      DDR2 DIMM 240P,G/F,S/T,YELLOW                       
      TOP YANG/111240-A0C600T    <G> 
      QVL:拓洋,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
  150 12G02573240U            P  PCS       2.0000 07/09/18               2  N  N
      DDR2 DIMM 240P,S/T,G/F BLACK                        
      FOXCONN/AT24011-J3B-4F                               DIMM_A2,DIMM_B2,    
      QVL:鴻海,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (12G02570240H        )                2.0000 07/08/31               S    N
      DDR2 DIMM 240P,G/F,S/T DIP                          
      TYCO/1470074-1/BLACK       <G> 
      QVL:泰科,泰科,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (12G02573240K        )                2.0000 07/08/31               S    N
      DDR2 DIMM 240P,G/F,S/T,BLACK                        
      LOTES/AAA-DDR-003-K01      <G> 
      QVL:嘉澤,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (12G02571240Y        )                2.0000 07/08/31               S    N
      DDR2 DIMM 240P,G/F,S/T,BLACK                        
      TOP YANG/111240-A0C000T    <G> 
      QVL:拓洋,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (12G02575240B        )                2.0000 07/08/31               S    N
      DDR2 DIMM 240P,S/T,G/F,DIP                          
      STARLINK/108036-401            
      QVL:華琦,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
  160 12G03000036P            P  PCS       2.0000 07/09/18               2  N  N
      SLOT 36P G/F PCIE X1,WHITE                          
      FOXCONN/2EG01811-A2W-DF                              PCIEX1_1,PCIEX1_2,  
      QVL:鴻海,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (12G03001036K        )                2.0000 07/08/31               S    N
      SLOT 36P G/F PCI-E X1 WHITE                         
      STARLINK/108059-103            
      QVL:華琦,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (12G03000036C        )                2.0000 07/08/31               S    N
      SLOT 36P G/F PCI EXPRESS X1                         
      STARLINK/108037-202        <G> 
      QVL:華琦,華琦,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (12G030000360        )                2.0000 07/08/31               S    N
      SLOT 36P,G/F PCI EXPRESS X1                         
      TYCO/1470075-1             <G> 
      QVL:泰科,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
  170 12G03001120K            P  PCS       3.0000 07/09/18               2  N  N
      SLOT PCI 120P DIP G/F WHT                           
      STARLINK/108027-603                                  PCI1,PCI2,PCI3,     
      QVL:華琦,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (12G03001120C        )                3.0000 07/08/31               S    N
      SLOT 120P G/F PCI                                   
      FOXCONN/EH06001-HHW-DF         
      QVL:鴻海,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (12G030011209        )                3.0000 07/08/31               S    N
      SLOT 120P G/F PCI                                   
      TYCO/1-1734019-1          <G>  
      MARKING:
      QVL:泰科,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (12G030621205        )                3.0000 07/08/31               S    N
      SLOT 120P G/F NYLON                                 
      SUYIN/127226FS120S205PO    <G> 
      QVL:實盈,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
  180 12G03001164X            P  PCS       1.0000 07/09/18               2  N  N
      SLOT 164P G/F PCIE X16 W/MLOCK                      
      STARLINK/108046-404/BLACK                            PCIEX16_2,          
      QVL:華琦,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (12G030701643        )                1.0000 07/08/31               S    N
      SLOT 164P G/F PCIE X16 W/MLOCK                      
      FOXCONN/2EG38211-A2DL-4F,BLACK 
      QVL:鴻海,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (12G03061164S        )                1.0000 07/08/31               S    N
      SLOT 164P PCIE X16 G/F W/MLOCK                      
      LOTES/AAA-PCI-058-K03/BLACK    
      QVL:嘉澤,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
  190 12G03001164Z            P  PCS       1.0000 07/09/18               2  N  N
      SLOT 164P G/F PCIE X16 W/MLOCK                      
      STARLINK/108046-402/BLUE                             PCIEX16_1,          
      QVL:華琦,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (12G03061164M        )                1.0000 07/08/31               S    N
      SLOT 164P G/F PCIE X16 W/MLOCK                      
      LOTES/AAA-PCI-058-K01,BLUE     
      QVL:嘉澤,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (12G030701644        )                1.0000 07/08/31               S    N
      SLOT 164P G/F PCIE X16 W/MLOCK                      
      FOXCONN/2EG38211-A2LL-4F,BLUE  
      QVL:鴻海,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
  200 12G044000009            P  PCS       2.0000 07/09/18               2  N  N
      MINI JUMPER CLOSE BLUE                              
      PINREX/200-71-PAGU00       <G>                       CHASSIS:34,CLRTC:12,
      QVL:頻銳,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (12G044100006        )                2.0000 07/08/31               S    N
      MINI JUMPER CLOSE BLUE                              
      SUYIN/254291FD002G2066O    <G> 
      QVL:實盈,實盈,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
  210 12G060000033            P  PCS       1.0000 07/09/18               2  N  N
      HEADER 1X3P S/T 2.54mm G/F                          
      FOXCONN/HB11031            <G>                       CLRTC,              
      QVL:鴻海,
-     客戶料號:1653003100R         品名規格:Pin Header 3P*1 2.54mm 180D(M) DIP 凱迅   1653003100R                             
+     CP/N:1653003100R         Product Spec.:Pin Header 3P*1 2.54mm 180D(M) DIP 凱迅   1653003100R                             
     (12G06000003C        )                1.0000 07/08/31               S    N
      HEADER 1X3P,2.54mm,S/T                              
      PINREX/210-91-03GB01       <G> 
      MARKING:
      QVL:頻銳,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (12G06000003N        )                1.0000 07/08/31               S    N
      HEADER 1X3P,2.54mm,S/T                              
      JVE/21N1264-03S10-01G-6/3-G<G> 
      QVL:致威,致威,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
  220 12G060040042            P  PCS       2.0000 07/09/18               2  N  N
      HEADER 1X4P S/T 2.54mm,K2 G/F                       
      FOXCONN/HB11041-P3         <G>                       CHASSIS,SPDIF_OUT,  
      QVL:鴻海,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (12G060040044        )                2.0000 07/08/31               S    N
      HEADER 1X4P S/T 2.54mm,K2 G/F                       
      PINREX/210-91-04GB02,BLACK     
      QVL:頻銳,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (12G06000004S        )                2.0000 07/08/31               S    N
      HEADER 1X4P S/T 2.54mm K2  JVE                      
      21N12564-04S10B-01G-6/3-V3-G   
      QVL:致威,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
  230 12G06100008K            P  PCS       1.0000 07/09/18               2  N  N
      HEADER 2X4P S/T K8 2.54mm                           
      PINREX/210-92-04GB14       <G>                       SPI,                
      QVL:頻銳,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (12G061040084        )                1.0000 07/08/31               S    N
      HEADER 2X4P S/T,2.54mm,K8 JVE/                      
      21N22564-08S10B-01G-6/3-V2-G   
      MARKING:No
      QVL:致威,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (12G06104008A        )                1.0000 07/08/31               S    N
      HEADER 2X4P S/T 2.54mm K8                           
      STARLINK/108061-701            
      QVL:華琦,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
  240 12G06104020J            P  PCS       1.0000 07/09/18               2  N  N
      HEADER 2X10P S/T 2.54mm WHITE                       
      PINREX/210-82-10GW03                                 PANEL,              
      QVL:頻銳,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (12G06104020L        )                1.0000 07/08/31               S    N
      HEADER 2X10P S/T 2.54mm   JVE/                      
      21N22564-20S10W-01G-6/3-R8A-G  
      QVL:致威,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
  250 12G06105010V            P  PCS       1.0000 07/09/18               2  N  N
      HEADER 2X5P 2.54mm S/T K8,GREE                      
      FOXCONN/HC11051-GD5        <G>                       AAFP,               
      QVL:鴻海,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (12G06105010Y        )                1.0000 07/08/31               S    N
      HEADER 2X5P 2.54mm S/T K8,GREE                      
      PINREX/210-92-05GE02       <G> 
      QVL:頻銳,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (12G06104010P        )                1.0000 07/08/31               S    N
      HEADER 2X5P 2.54mm S/T K8 JVE/                      
      21G2264-10S10-01G-6/3-V4-GN<G> 
      MARKING:
      QVL:致威,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (12G0610B0104        )                1.0000 07/08/31               S    N
      HEADER 2X5P 2.54mm S/T K8,GREE                      
      STARLINK/108061-602            
      QVL:華琦,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
  260 12G0610B0105            P  PCS       1.0000 07/09/18               2  N  N
      HEADER 2X5P 2.54mm S/T K9,BLUE                      
      FOXCONN/HC11051-NP9(660C)                            USB910_WFGBT,       
      QVL:鴻海,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (12G06105010J        )                1.0000 07/08/31               S    N
      HEADER 2X5P 2.54mm S/T K9,BLUE                      
      PINREX/210-92-05GU02       <G> 
      QVL:頻銳,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (12G06105010B        )                1.0000 07/08/31               S    N
      HEADER 2X5P 2.54mm S/T K9 JVE/                      
      21U2264-10S10-01G-6/3-V1-GN    
      QVL:致威,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
  270 12G07120010K            P  PCS       1.0000 07/09/18               2  N  N
      BOX HEAD 2X5P S/T K10 GREEN                         
      PINREX/510-90-10GE84       <G>                       COM1,               
      QVL:頻銳,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (12G07120010M        )                1.0000 07/08/31               S    N
      BOX HEAD 2X5P S/T 2.54,K10 GR                       
      JVE/23G6960-10S10-01G-V10-GN<G 
      QVL:致威,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
  280 12G07120010Q            P  PCS       2.0000 07/09/18               2  N  N
      BOX HEAD 2X5P S/T 2.54mm K9                         
      PINREX/510-90-10GU01       <G>                       USB1112,USB78,      
      QVL:頻銳,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (12G07100010P        )                2.0000 07/08/31               S    N
      BOX HEAD 2X5 S/T 2.54,K9,BLUE                       
      HR/A2548WV-2X5-Q9-46-BL    <G> 
      MARKING:
      QVL:燦達,燦達,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
  290 12G07120040K            P  PCS       1.0000 07/09/18               2  N  N
      BOX HEAD 2X20P S/T 2.54mm,K20                       
      PINREX/510-90-40GR01,RED   <G>                       PRI_EIDE,           
      QVL:頻銳,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (12G07130040Q        )                1.0000 07/08/31               S    N
      BOX HEAD 2X20P S/T,K20,RED                          
      JVE/23N6960-40S10R-01G-V20-G   
      QVL:致威,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
  300 12G07130010C            P  PCS       1.0000 07/09/18               2  N  N
      BOX HEAD 2X5P 2.54 G/F K9 RED                       
      JVE/23N6960-10S10R-01G-V9-G                          IE1394_2,           
      QVL:致威,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (12G07130010D        )                1.0000 07/08/31               S    N
      BOX HEAD 2X5P S/T 2.54 K9 RED                       
      PINREX/510-80-10GR02           
      QVL:頻銳,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
  310 12G07130034A            P  PCS       1.0000 07/09/18               2  N  N
      BOX HEAD 2X17P S/T,2.54mm,K5                        
      STARLINK/108070-101                                  FLOPPY,             
      QVL:華琦,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (12G07120034N        )                1.0000 07/08/31               S    N
      BOX HEAD 2X17P S/T,K5 BK                            
      PINREX/510-80-34GB03,NY66      
      QVL:頻銳,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (12G07120034M        )                1.0000 07/08/31               S    N
      BOX HEAD 2X17P 2.54 S/T,K5                          
      FOXCONN/HL2217F-P4             
      QVL:鴻海,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
  320 12G080004037            P  PCS       5.0000 07/09/18               2  N  N
      WAFER HD 3P S/T 2.54mm W/POST                       
      STARLINK/108032-601        <G>                       CHA_FAN1,CHA_FAN2,  
                                                           CHA_FAN3,CHA_FAN4,  
                                                           PWR_FAN,            
      QVL:華琦,華琦,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (12G08002003E        )                5.0000 07/08/31               S    N
      WAFER HD 3P S/T 2.54mm W/POST                       
      CS/JS-6255-03(S)               
      QVL:喬訊,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (12G08002003C        )                5.0000 07/08/31               S    N
      WAFER HD 3P S/T 2.54 W/POST                         
      PINREX/744-81-03TW10,WHITE     
      QVL:頻銳,
-     客戶料號:1655003000R         品名規格:Wafer 3P W/O-Lock 2.54mm 180D(M) DIP凱迅   1655003000R                             
+     CP/N:1655003000R         Product Spec.:Wafer 3P W/O-Lock 2.54mm 180D(M) DIP凱迅   1655003000R                             
     (12G08000403A        )                5.0000 07/08/31               S    N
      WAFER HD 3P S/T 2.54mm DIP                          
      FOXCONN/HF0803E-P2             
      QVL:鴻海,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
  330 12G08000404M            P  PCS       1.0000 07/09/18               2  N  N
      WAFER HD 4P S/T 2.54POST,WHITE                      
      STARLINK/108032-401AC      <G>                       CPU_FAN,            
      QVL:華琦,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (12G08000504A        )                1.0000 07/08/31               S    N
      WAFER HD 4P S/T 2.54POST,WHITE                      
      PINREX/744-81-04TW20           
      QVL:頻銳,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (12G08002004Q        )                1.0000 07/08/31               S    N
      WAFER HD 4P S/T 2.54POST,WHITE                      
      HR/A2542WVC-F1-4P              
      QVL:燦達,燦達,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
  340 12G08002004F            P  PCS       1.0000 07/09/18               2  N  N
      WAFER HD 4P S/T 2.54,BLACK,CD                       
      STARLINK/108032-504AC      <G>                       CD,                 
      QVL:華琦,華琦,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (12G08002004N        )                1.0000 07/08/31               S    N
      WAFER HD 4P S/T 2.54,CD,BLACK                       
      CS/JS-1143-04(DN)V0        <G> 
      QVL:喬訊,喬訊,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (12G080005040        )                1.0000 07/08/31               S    N
      WAFER HD 4P S/T 2.54mm,CD,BLAC                      
      FOXCONN/HF1104E           <G>  
      MARKING:
      QVL:鴻海,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (12G08000404K        )                1.0000 07/08/31               S    N
      WAFER HD 4P S/T 2.54,CD,BLACK                       
      HR/A2541WV-4P-6T BLACK         
      MARKING:
      QVL:燦達,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
  350 12G131120082            P  PCS       1.0000 07/09/18               2  N  N
      USB CON 2X4P STACK W/S DIP                          
      LOTES/KU1215BP3E           <G>                       LAN1_USB12,         
      QVL:嘉澤,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (12G131120083        )                1.0000 07/08/31               S    N
      USB CON 2X4P STACK W/S DIP                          
      FOXCONN/UB11123-8MB1-4F    <G> 
      QVL:鴻海,
-     客戶料號:1654908100          品名規格:USB Conn. DUAL port 8Pin90D(M) Black PC   1654908100                              
+     CP/N:1654908100          Product Spec.:USB Conn. DUAL port 8Pin90D(M) Black PC   1654908100                              
     (12G13112008L        )                1.0000 07/08/31               S    N
      USB CON 2X4P STACK W/S,G DIP                        
      TYCO/1734022-1                 
      QVL:泰科,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
  360 12G14000106E            P  PCS       1.0000 07/09/18               2  N  N
      PHONE JACK 6P 6IN1,BTXE                             
      FOXCONN/JAS3331-D1G2-4F    <G>                       AUDIO,              
      QVL:鴻海,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (12G14030106J        )                1.0000 07/08/31               S    N
      PHONE JACK 6P 6IN1,BTXE                             
      AMCO/A66-26EMKPS1              
      QVL:劼皇,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (12G140401060        )                1.0000 07/08/31               S    N
      PHONE JACK 6P 6IN1,BTXE                             
      LOTES/ABA-JAK-026-K01          
      QVL:嘉澤,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
  370 12G14201106W            P  PCS       1.0000 07/09/18               2  N  N
      MODULAR JACK ESATA/1394_6P,R/A                      
      NIKETECH/167R08-002                                  F_ESATA12,          
      QVL:天鵬,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (12G142011067        )                1.0000 07/08/31               S    N
      MODULAR JACK ESATA/1394_6P,R/A                      
      TYCO/1909058-1,G/F             
      QVL:泰科,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (12G14201106V        )                1.0000 07/08/31               S    N
      MODULAR JACK ESATA/1394_6P,R/A                      
      FOXCONN/LD8720F-S61R,G/F       
      QVL:鴻海,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
  380 12G142011142            P  PCS       1.0000 07/09/18               2  N  N
      JACK MINI DIN/USBX2 14P R/A                         
      LOTES/ABA-USB-017-K01                                KB_USB56,           
      QVL:嘉澤,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (12G142011143        )                1.0000 07/08/31               S    N
      JACK MINI DIN/USBX2 14P R/A                         
      TYCO/1775610-1                 
      QVL:泰科,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
  390 12G14253322V            P  PCS       1.0000 07/09/18               2  N  N
      MODULAR JACK USB/LAN,W/LED,TRA                       ECN:C100078
      TYCO/1775658-4                                       LAN2_USB34,         
      QVL:泰科,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (12G14203322X        )                1.0000 07/09/18               S    N
      MODULAR JACK USB/LAN,W/LED,TRA                      
      FOXCONN/JFM38U1M-21C4-4F   <G> 
      QVL:鴻海,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (12G142333227        )                1.0000 07/09/18               S    N
      JACK USB/LAN,W/LED,GIGA,W/TRA                       
      UDE/RU1-181A9WGF               
      QVL:湧德,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
  400 12G146026055            P  PCS       1.0000 07/09/18               2  N  N
      OPTICAL/RCA JACK 5P TRAN                            
      SOLTEAM/JST1583/12-14026050<G>                       SPDIF_O12,          
      QVL:捷騰,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (12G14602605C        )                1.0000 07/08/31               S    N
      OPTICAL/RCA JACK 5P TRAN                            
      LINGYANG/GRX-1002T-13F0BA      
      QVL:羚揚,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
  410 12G150200082            P  PCS       1.0000 07/09/18               2  N  N
      POWER CON 8P S/T,ATX,W/COVER                        
      AMCO/210-08CAT2MAW         <G>                       EATX12V,            
      QVL:劼皇,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (12G15020008D        )                1.0000 07/08/31               S    N
      POWER CON 8P S/T,ATX,W/COVER                        
      PINREX/740-81-08TWYO           
      QVL:頻銳,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
  420 12G150200243            P  PCS       1.0000 07/09/18               2  N  N
      POWER CON 24P W/PEG,A,B                             
      STARLINK/108048-1          <G>                       EATXPWR,            
      QVL:華琦,華琦,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (12G15020024J        )                1.0000 07/08/31               S    N
      POWER CON 24P W/PEG,A,B                             
      PINREX/740-41-24TWS0           
      QVL:頻銳,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (12G150200246        )                1.0000 07/08/31               S    N
      POWER CON 24P W/PEG,A,B                             
      TYCO/1775034-1             <G> 
      QVL:泰科,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (12G15020024T        )                1.0000 07/08/31               S    N
      POWER CON 24P W/PEG                                 
      STARLINK/108067-201            
      QVL:華琦,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (12G15021024C        )                1.0000 07/08/31               S    N
      POWER CON 24P W/PEG,A,B                             
      FOXCONN/HM3512E-EP2,W-LATCH    
      QVL:鴻海,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
  430 12G15600007R            P  PCS       4.0000 07/09/18               2  N  N
      SATA CON 7P S/T DIP,SHIELD,G/F                      
      STARLINK/107023-201,RED                              SATA1,SATA2,SATA5,  
                                                           SATA6,              
      QVL:華琦,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (12G15602007W        )                4.0000 07/08/31               S    N
      SATA CON 7P S/T DIP,SHIELD,G/F                      
      AMCO/233-100000-003,RED        
      QVL:劼皇,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (12G15605007G        )                4.0000 07/08/31               S    N
      SATA CON 7P DIP,SHIELD,RED                          
      WINWIN/WATM-07ABN4B2B8UW6      
      QVL:承豐,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
  440 12G15600007S            P  PCS       2.0000 07/09/18               2  N  N
      SATA CON 7P S/T DIP,SHIELD,G/F                      
      STARLINK/107023-202,BLACK                            SATA3,SATA4,        
      QVL:華琦,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (12G15602007X        )                2.0000 07/08/31               S    N
      SATA CON 7P S/T DIP,SHIELD,G/F                      
      AMCO/233-100000-001,BLACK      
      QVL:劼皇,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (12G15605007J        )                2.0000 07/08/31               S    N
      SATA CON 7P DIP,SHIELD,BLACK                        
      WINWIN/WATM-07ABN4B2B8UW       
      QVL:承豐,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
  450 12G201110093            P  PCS       1.0000 07/09/18               2  N  N
      BATT HOLDER/CR2032 DIP                              
      LOTES/KB6666BP5L-B         <G>                       BATTERY,            
      QVL:嘉澤,
-     客戶料號:1750299010          品名規格:BATTERY HOLDER BH-800.5 FOR CR2032   BH-800.9G                               
+     CP/N:1750299010          Product Spec.:BATTERY HOLDER BH-800.5 FOR CR2032   BH-800.9G                               
     (12G200110025        )                1.0000 07/08/31               S    N
      BATT HOLDER/CR2032                                  
      TOP YANG/17002-A5D0407T    <G> 
      QVL:拓洋,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (12G200100207        )                1.0000 07/08/31               S    N
      BATT HOLDER/CR2032                                  
      FOXCONN/BB8020E-T              
      QVL:鴻海,鴻海,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
  460 13G070495010            P  PCS       1.0000 07/09/18               2  N  N
      SB HEATSINK OF P5K                                  
      AMA/HEATSINK*1                                       HEATSINK_SB,        
      QVL:華信,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (13G070495012        )                1.0000 07/08/31               S    N
      SB HEATSINK OF P5K                                  
      ACTC/HEATSINK*1                
      QVL:聯福生,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (13G070495011        )                1.0000 07/08/31               S    N
      SB HEATSINK OF P5K                                  
      KG/HEATSINK*1                  
      QVL:國格,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
  470 13G070515010            P  PCS       1.0000 07/09/18               2  N  N
      NB HEATSINK OF P5K-E                                
      AMA/HEATSINK*1                                       HEATSINK,           
      QVL:華信,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (13G070515011        )                1.0000 07/08/31               S    Y
      NB HEATSINK OF P5K-E                                
      HSINWEI/HEATSINK*1             
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (13G070515012        )                1.0000 07/09/03               S    Y
      NB HEATSINK OF P5K-E                                
      HOTEK/HEATSINK*1               
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
  480 13G070515020            P  PCS       2.0000 07/09/18               2  N  N
      MOS HEATSINK OF P5K-E                               
      AMA/HEATSINK*1                                       HEATSINK1,HEATSINK2,
      QVL:華信,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (13G070515021        )                2.0000 07/09/03               S    N
      MOS HEATSINK OF P5K-E                               
      KG/HEATSINK*1                  
      QVL:國格,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
  490 16G000201200            P  PCS       6.0000 07/09/18               2  N  N
      THERMAL GREASE AK-100 20G           1000.00         
      耕暉/HS07                  <G>                       HEATSINK_SB,        
      QVL:耕暉,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
     (16GSN0008000        )                6.0000 07/08/31               S    N
      THERMAL GREASE J601B                                
      散熱膏(20G)                    
      QVL:捷美美,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
  500 16GSN0000010            P  PCS       1.0000 07/09/18               0  N  N
      JUMPER WIRE                                         
      JU 0.5Φ6.3*4*6.3                                    SY1_1,              
      QVL:彩源,彩源,
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
  510 60-MBB6U5-A02           M  PCS       1.0000 07/09/18               0  N  N
      P5K-E <GA>                                          
      R1.02G <GA>  (EN*47993)         
-     客戶料號:                    品名規格:                                           
+     CP/N:                    Product Spec.:                                           
